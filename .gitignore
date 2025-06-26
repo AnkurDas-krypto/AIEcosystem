@@ -1,0 +1,29 @@
+# Python
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+
+# Others
+*.sqlite3
+*.db
+recipes.db
